@@ -1,0 +1,7 @@
+[
+        {
+                "Name":"Export",
+                "Icon": "export.ico",
+                "Path": "native_export.py"
+        }
+]
