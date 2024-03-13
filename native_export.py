@@ -3,7 +3,7 @@
 from os import system
 
 PATH="C://parse//"
-SAVER_PATH="C://Users//Igor//PycharmProjects//ObjectExplorer//main.py"
+SAVER_PATH="C://parse//exec//saver.py"
 
 objects=[]
 for item in projects.primary.get_children():
